@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=2.0
+requests>=2.28
+python-dotenv>=1.0
+rich>=13.0
+tqdm>=4.60
+lxml>=5.0
+transformers>=4.30
+torch>=2.0
+streamlit>=1.30
+plotly>=5.18

@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+*.env.local
+
+# API cache (regenerated on demand)
+cache/
+
+# Build outputs & generated reports (tracked separately in reports/)
+output/
+*.pdf
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Claude Code internals
+.claude/
+
+# Personal session notes
+changes.txt
+
+# OS clutter
+.DS_Store
+Thumbs.db
